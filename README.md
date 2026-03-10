@@ -18,8 +18,10 @@ In this lab you have learned about multiplexers and demultiplexers.
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
+The purpose of a multiplexer is to guide the flow of an input into 1 of many outputs. For example, in a car you can guide where the air flows (top, down, ect). Another example could be an HDMI in a TV, there can be many HDMI cables inputed into the TV but it only displays 1 of those. 
 
 ### In plain English describe the function and use of a demultiplexer.
+
 
 ### What other uses might these circuits have? (Think Shannon’s)
 
